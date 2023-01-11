@@ -5,7 +5,7 @@
 
 > If you have any suggestions feel free create issues.
 
-- [Demo](#Credentials)
+- [Credentials](#Credentials)
 - [Feature](#feature-of-student-management-system)
 - [Installation](#installation)
 
