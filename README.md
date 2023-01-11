@@ -5,15 +5,12 @@
 
 > If you have any suggestions feel free create issues.
 
-- [Demo](#demo)
+- [Demo](#Credentials)
 - [Feature](#feature-of-student-management-system)
-- [Technology](#technology)
-- [Screen Shot](#screen-shot)
 - [Installation](#installation)
 
-Demo
+Credentials
 -----------------------------
-- **URL** - http://ems.tserm.com
 - **Username** -  admin
 - **Password** - 12345
 
